@@ -1,3 +1,10 @@
+h1, h2, h3 {
+            font-family: 'Cairo', sans-serif;
+            font-weight: 800; /* وزن عريض جداً ممتاز للعناوين الرئيسية */
+            color: #2c3e50;    /* لون مريح للعين واحترافي */
+            margin-bottom: 15px;
+            letter-spacing: 0; /* إلغاء التباعد الافتراضي للحروف الإنجليزية ليناسب العربي */
+        }
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
