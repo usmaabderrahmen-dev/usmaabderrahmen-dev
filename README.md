@@ -7,9 +7,9 @@
 **مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا**
 
 <details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to :    </summary> </strong></p>
+<p><strong> <summary> ☢;تعلم ;قراءة; برمجة; قهوة☢   </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
 
 </details>
 
