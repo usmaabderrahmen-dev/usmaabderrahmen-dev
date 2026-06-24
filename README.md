@@ -1,10 +1,14 @@
-h1, h2, h3 {
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<h1>
             font-family: 'Cairo', sans-serif;
-            font-weight: 800; /* وزن عريض جداً ممتاز للعناوين الرئيسية */
-            color: #2c3e50;    /* لون مريح للعين واحترافي */
+            font-weight: 800; 
+            color: #2c3e50;   
             margin-bottom: 15px;
-            letter-spacing: 0; /* إلغاء التباعد الافتراضي للحروف الإنجليزية ليناسب العربي */
-        }
+            letter-spacing: 0; 
+</h1>
+            
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
