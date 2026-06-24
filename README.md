@@ -1,22 +1,21 @@
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="[![Uploading github picture 2.jpg…]()
-"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<!-- العنوان الضخم والبارز جداً -->
-<h1 style="font-family: 'Segoe UI', 'Cairo', 'Tajawal', Tahoma, sans-serif; color: #1a237e; font-weight: 900; font-size: 3.5em; margin-top: 25px; margin-bottom: 5px; direction: rtl; letter-spacing: -1px;">
-  المبرمج عبد الرحمن 🚀
+<!-- العنوان الجديد بخط Almarai و Changa الحديث والاسم المحدث -->
+<h1 style="font-family: 'Almarai', 'Changa', 'Segoe UI', sans-serif; color: #1a237e; font-weight: 900; font-size: 3.5em; margin-top: 25px; margin-bottom: 5px; direction: rtl; letter-spacing: -0.5px;">
+  عبد الرحمان المبرمج الماهر⚔
 </h1>
 
-<p style="font-family: 'Segoe UI', 'Cairo', Tahoma, sans-serif; font-size: 1.3em; color: #455a64; direction: rtl; margin-top: 0;">
-  مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا
+<p style="font-family: 'Almarai', 'Segoe UI', sans-serif; font-size: 1.3em; color: #455a64; direction: rtl; margin-top: 0;">
+  مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا⚔
 </p>
 
 <details>
 <p><strong> <summary> 🎧 Busy coding & Vibing to :    </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/zongoben_) <br>
 
 </details>
 
