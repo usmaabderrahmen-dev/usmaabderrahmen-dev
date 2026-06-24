@@ -1,21 +1,20 @@
 <div align="center" width="50">
-<div align="center" style="margin-top: 25px; margin-bottom: 5px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Changa&weight=800&size=40&duration=2500&pause=800&color=1A237E&center=true&vCenter=true&width=600&height=80&lines=%D8%A7%D9%84%D9%85%D8%A8%D8%B1%D9%85%D8%AC+%D8%A3%D9%86%D8%B3+🚀;I'm+Zongo+🔥" alt="Zongo Animation" />
-</div>
+
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<!-- العنوان المحدث بأنيميشن متحرك احترافي -->
-
+<div align="center" style="margin-top: 25px; margin-bottom: 5px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Changa&weight=800&size=40&duration=2500&pause=800&color=1A237E&center=true&vCenter=true&width=600&height=80&lines=Al-Mobarmeg+Anass+🚀;I'm+Zongo+🔥" alt="Zongo Animation" />
+</div>
 
 <p style="font-family: 'Almarai', 'Segoe UI', sans-serif; font-size: 1.3em; color: #455a64; direction: rtl; margin-top: 0;">
-  مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا⚔
+  مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا ⚔️
 </p>
 
 <details>
-<p><strong> <summary> 🎧 Busy coding & Vibing to :    </summary> </strong></p>
+<p><strong> <summary>  Busy coding & learning💻 :    </summary> </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/zongoben_) <br>
+
 
 </details>
 
