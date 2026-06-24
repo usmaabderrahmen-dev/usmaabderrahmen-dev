@@ -1,26 +1,21 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<h1>
-            font-family: 'Cairo', sans-serif;
-            font-weight: 800; 
-            color: #2c3e50;   
-            margin-bottom: 15px;
-            letter-spacing: 0; 
-</h1>
-            
 <div align="center" width="50">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-### مرحباً، أنا عبد الرحمن بن عبيد 👋
-**مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا**
+<!-- العنوان الضخم والبارز جداً -->
+<h1 style="font-family: 'Segoe UI', 'Cairo', 'Tajawal', Tahoma, sans-serif; color: #1a237e; font-weight: 900; font-size: 3.5em; margin-top: 25px; margin-bottom: 5px; direction: rtl; letter-spacing: -1px;">
+  المبرمج عبد الرحمن 🚀
+</h1>
+
+<p style="font-family: 'Segoe UI', 'Cairo', Tahoma, sans-serif; font-size: 1.3em; color: #455a64; direction: rtl; margin-top: 0;">
+  مطور مواقع وتطبيقات ومحب للبرمجة والتكنولوجيا
+</p>
 
 <details>
-<p><strong> <summary> ☢;تعلم ;قراءة; برمجة; قهوة☢   </summary> </strong></p>
+<p><strong> <summary> 🎧 Busy coding & Vibing to :    </summary> </strong></p>
 
-
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
 </details>
 
